@@ -9,6 +9,10 @@
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBPSCD/MTAPlugin.git"
+  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-ios",
